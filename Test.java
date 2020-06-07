@@ -1,6 +1,6 @@
 public class Test{
 		/**
-		 * @wi.LinkRoleAsASingleWord AD-552:200 Hello 
+		 * @wi.LinkRoleAsASingleWord AD-552 Hello 
 		 */
 			public static void main(String[] args){
 	
